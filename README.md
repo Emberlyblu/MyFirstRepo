@@ -1,9 +1,9 @@
 # MyFirstRepo
 
-#First header
+# First header
 Main information about app
 
-##Second header
+## Second header
 App HTML details
 
 ```html
@@ -17,5 +17,5 @@ App JS details
 console.log("Hello world");
 ```
 
-##Contributing
+## Contributing
 ME :)
